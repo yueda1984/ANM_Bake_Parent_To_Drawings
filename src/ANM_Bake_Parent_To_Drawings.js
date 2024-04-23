@@ -32,7 +32,7 @@ var scriptVar = "1.73";
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html
 	   
 	3) There is a folder named src inside the zip file. Copy all its contents directly to the folder above.
-	4) In Harmony, add ANM_Bake_Parent_To_Drawings to any view toolbars.
+	4) In Harmony, add ANM_Bake_Parent_To_Drawings function to any view toolbars.
 	
 	
 	Direction:
